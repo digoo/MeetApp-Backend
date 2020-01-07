@@ -1,7 +1,5 @@
 # MeetApp
 
-barber App created during the rocketseat.com.br bootcamp
-
 So far, dependencies:
 
 yarn add express <br>
